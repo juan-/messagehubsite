@@ -18,7 +18,7 @@
 		<a name="top"></a>
 		<div class="landing">
 			<div class="landing-center">
-				<h1><font color="#f9cb4e">Global</font><font color="#70dbee">Hub</font></h1>
+				<h1><font color="#f9cb4e" style="text-shadow: 0 0 2px rgba(10, 10, 10, 0.83);">Global</font><font color="#70dbee">Hub</font></h1>
 				<h2>Connect Everything.</h2>
 			</div>
 			<a href="#whatis"><i class="glyphicon glyphicon-chevron-down landing-arrow"></i></a>
