@@ -33,7 +33,7 @@
 				<h3> Live Demo Instructions</h3>
 				To join the global chat room text your message to: <b>+1 (609) 557-3056</b> <br>
 				Make sure you join the web version so that you can see the real-time messages! <br>
-				<b><i>Features:</i></b> text "subscribe" to receive messages posted in the chat room, and text "I am out" once you are done. <br>
+				<b><i>Features:</i></b> text "subscribe" to receive messages posted in the chat room, and text "un-subscribe" once you are done. <br>
 				<a href="https://globalhub.herokuapp.com" target="_new"><button style="padding:1rem;margin:2rem"> Live Demo </button></a>
 			</div>
 			
